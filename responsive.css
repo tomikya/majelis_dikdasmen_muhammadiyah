@@ -1,0 +1,232 @@
+@media screen and (max-width:1000px) {
+  .judul {
+    font-size: 24px;
+}
+
+.btn-awal a {
+  font-size: 18px;
+  padding: 8px;
+}
+.card-artikel {
+  max-width: 50%;
+}
+}
+
+@media screen and (max-width:767px) {
+  .judul {
+    font-size: 15px;
+  }
+
+  .btn-awal a {
+    font-size: 13px;
+    width: 100px;
+    text-decoration: none;
+    padding: 7px;
+  }
+
+  .container-1 {
+    font-size: 20px;
+  }
+
+  .AUM-pendidikan h1 {
+    font-size: 35px;
+  }
+
+  .AUM {
+    margin-top: 4px;
+    font-size: 20px;
+  }
+
+  .card {
+    font-size: 18px;
+  }
+
+  .card-cntn1 {
+    width: 500px;
+
+  }
+
+  .card-isi-1 p {
+    font-size: 14px;
+  }
+
+  .card-cntn2 {
+    margin-top: 0px;
+  }
+
+  .card-isi-2 {
+    height: 130px;
+  }
+
+  .card-isi-2 p {
+    margin-top: 14px;
+  }
+
+  .card-isi-2 h1 {
+    margin: 0px auto;
+    width: 100px;
+    margin-bottom: 5px;
+  }
+
+  .card-footer p {
+    font-size: 28px;
+  }
+
+
+  /* PENGELOLAAN */
+  .card-pengelolaan-1 {
+    margin: 25px 20px 15px;
+  }
+
+  .pengelolaan-judul {
+    font-size: 15px;
+  }
+
+  .pengelolaan h1 {
+    width: 260px;
+  }
+
+
+  /* KOORDINASI */
+  .judul-koordinasi {
+    max-width: 80%;
+  }
+
+  .judul-koordinasi h1 {
+    font-size: 30px;
+  }
+
+  .judul-koordinasi p {
+    font-size: 17px;
+  }
+
+  /* footer */
+  .footer {
+    display: block;
+    font-size: 10px;
+    padding: 25px;
+  }
+
+  .footer-1 {
+    margin: 20px;
+  }
+
+  .img-sejarah {
+    height: 200px;
+  }
+
+  .judul-sejarah h1 {
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+}
+
+.judul-sejarah p {
+    font-size: 20px;
+    color: rgba(255, 255, 255, 0.7);
+}
+.sejarah p{
+  font-size: 13px;
+  margin: 0% 5%;
+}
+
+.card2 {
+  font-size: 13px;
+  max-width: 50%;
+}
+
+.card-artikel {
+  max-width: 80%;
+}
+
+.judul-artikel-awal {
+  font-size: 25px;
+  color: white;
+}
+
+.judul-artikel-awal P {
+  font-size: 15px;
+}
+
+.content-awal-artikel {
+  padding: 280px 0 180px;
+}
+
+.container-berita {
+  margin: 0 5%;
+  margin-top: 120px;
+  padding: 10px 20px ;
+
+}
+.berita h1 {
+  font-size: 25px;
+}
+.berita h4 {
+  font-size: 15px;
+}
+
+.contact-wrapper {
+  width: 98%;
+}
+.contact-1 h2{
+  color: #202020;
+  font-size: 17px;
+}
+.contact-1 .desk {
+  margin-left: 35px;
+  font-size: 13px;
+}
+.contact-1 img{
+  width: 15px;
+}
+}
+
+
+@media screen and (max-width:1460px) {
+  .contact-wrapper {
+    width: 58%;
+  }
+  .content-2{
+    width:100%;
+  }
+}
+@media screen and (max-width:600px) {
+  .card-cntn1{
+    width : auto;
+  }
+
+  .content-koordinasi, .card-koordinasi{
+    display: block;
+  }
+  .content-program{
+    padding: 20px;
+  }
+}
+  @media screen and (max-width:500px) {
+  .judul {
+    font-size: 10px;
+  }
+
+
+  .btn-awal a {
+    font-size: 10px;
+    width: 70px;
+    text-decoration: none;
+    padding: 6px;
+    border-radius: 4px;
+  }
+
+  /* navbar */
+  .wraper img {
+    max-width: 100%;
+    height: 50px;
+}
+
+  .li-nav {
+    font-size: 14px;
+
+  }
+/* Navbar end */
+  .card-footer p {
+    font-size: 20px;
+  }
+}
